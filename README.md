@@ -20,4 +20,4 @@
 برای نصب سریع، فقط این دستور رو داخل ترمینال بزنید:
 
 ```bash
-bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/ShayanAghaei/Auto-restarter-services/main/auto-restart.sh)
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/ShayanAghaei/Auto-restarter-services/main/restart.sh)
