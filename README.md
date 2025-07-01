@@ -15,9 +15,9 @@
 
 ---
 
-## 🚀 روش استفاده
+## 🚀 نصب سریع
 
-1. ابتدا اسکریپت را دریافت و ذخیره کنید:
+برای نصب سریع، فقط این دستور رو داخل ترمینال بزنید:
 
-   ```bash
-   nano setup-restart-timer.sh
+```bash
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/ShayanAghaei/Auto-restarter-services/main/auto-restart.sh)
